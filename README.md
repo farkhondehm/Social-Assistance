@@ -1,0 +1,2 @@
+# Social-Assistance
+This dataset includes the Head of Household trending data from 2004 to 2014. It provides information on households by neighborhood with reference to the Ontario Works social assistance program. The information in this dataset will inform the delivery of services by providing trending information on social assistance which includes income support to help with the costs of basic needs, like food, clothing and shelter. 
